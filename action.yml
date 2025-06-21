@@ -3,7 +3,7 @@ description: Generate profile summary cards and commit to default branch
 author: vn7n24fzkq
 
 inputs:
-  USERNAME: LoKiiZoshi
+  USERNAME:LoKiiZoshi
     type: string
     required: true
     description: 'GitHub username'
